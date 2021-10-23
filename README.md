@@ -1,6 +1,12 @@
 # include-zip-leading-zero
 
 A script useful for adding leading zero's to a ```.csv``` mailing list with US zipcodes.
+
+| **Input**   | **Output**  |
+| ----------- | ----------- |
+| 2180      | 02180       |
+| 01867-3929 | 01867-3929 |
+
 1. Place ```.csv``` files in an `/input` folder
 2. Create an `/output` folder
 3. Specify list of ```POSSIBLE_ZIP_COLUMNS``` (defaults to ```"Zip"```)
