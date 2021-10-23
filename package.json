@@ -1,0 +1,25 @@
+{
+  "name": "include-zip-leading-zero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MannyIkomi/include-zip-leading-zero.git"
+  },
+  "author": "Manny Ikomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MannyIkomi/include-zip-leading-zero/issues"
+  },
+  "homepage": "https://github.com/MannyIkomi/include-zip-leading-zero#readme",
+  "dependencies": {
+    "csv": "^5.5.3",
+    "fast-csv": "^4.3.6"
+  }
+}
