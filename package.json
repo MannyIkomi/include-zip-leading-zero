@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/MannyIkomi/include-zip-leading-zero#readme",
   "dependencies": {
-    "csv": "^5.5.3",
     "fast-csv": "^4.3.6"
   }
 }

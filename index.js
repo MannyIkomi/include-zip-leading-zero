@@ -1,7 +1,6 @@
-import {parse, format, parseStream, writeToPath} from 'fast-csv';
+import {parseStream, writeToPath} from 'fast-csv';
 import {readdir} from 'fs/promises'
 import fs from 'fs'
-
 
 const FOLDER_READ_PATH = 'input'
 const FOLDER_WRITE_PATH = 'output'
