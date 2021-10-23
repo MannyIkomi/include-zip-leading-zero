@@ -78,6 +78,5 @@ typings/
 # Custom Additions
 .DS_Store
 *.DS_Store
-/input
-/output
+*.csv
 .DS_Store
