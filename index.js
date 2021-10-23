@@ -3,7 +3,7 @@ import {readdir} from 'fs/promises'
 import fs from 'fs'
 
 
-const FOLDER_READ_PATH = 'test-csv'
+const FOLDER_READ_PATH = 'input'
 const FOLDER_WRITE_PATH = 'output'
 
 const addLeadingZero = (string) => `0${string}`
